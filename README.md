@@ -7,7 +7,7 @@ This application allows you to retrieve information about Pokémon strengths and
 
 To run the Pokémon console application locally, you need to have [.NET Core](https://dotnet.microsoft.com/download) installed on your machine.
 
-1. Clone this repository to your local machine using the following command: git clone https://github.com/AnkitaGarg17/pokemon_application.git
+1. Clone this repository to your local machine using the following command: git clone https://github.com/AnkitaGarg17/PokemonAppV2.git
 
 2. Open a command prompt or terminal and navigate to the project directory.
 
