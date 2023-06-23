@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonTest/Latest_PokemonTest.csproj": {}
+  },
+  "projects": {
+    "/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/Latest_PokemonApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/Latest_PokemonApp.csproj",
+        "projectName": "Latest_PokemonApp",
+        "projectPath": "/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/Latest_PokemonApp.csproj",
+        "packagesPath": "/Users/akshitahuja/.nuget/packages/",
+        "outputPath": "/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/akshitahuja/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "System.Threading.Tasks": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonTest/Latest_PokemonTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonTest/Latest_PokemonTest.csproj",
+        "projectName": "Latest_PokemonTest",
+        "projectPath": "/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonTest/Latest_PokemonTest.csproj",
+        "packagesPath": "/Users/akshitahuja/.nuget/packages/",
+        "outputPath": "/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/akshitahuja/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/Latest_PokemonApp.csproj": {
+                "projectPath": "/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/Latest_PokemonApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.16.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.IO": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "System.Threading.Tasks": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

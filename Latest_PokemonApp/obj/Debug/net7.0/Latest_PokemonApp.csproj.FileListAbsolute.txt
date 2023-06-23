@@ -1,0 +1,15 @@
+/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/bin/Debug/net7.0/Latest_PokemonApp
+/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/bin/Debug/net7.0/Latest_PokemonApp.deps.json
+/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/bin/Debug/net7.0/Latest_PokemonApp.runtimeconfig.json
+/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/bin/Debug/net7.0/Latest_PokemonApp.dll
+/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/bin/Debug/net7.0/Latest_PokemonApp.pdb
+/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/obj/Debug/net7.0/Latest_PokemonApp.csproj.AssemblyReference.cache
+/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/obj/Debug/net7.0/Latest_PokemonApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/obj/Debug/net7.0/Latest_PokemonApp.AssemblyInfoInputs.cache
+/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/obj/Debug/net7.0/Latest_PokemonApp.AssemblyInfo.cs
+/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/obj/Debug/net7.0/Latest_PokemonApp.csproj.CoreCompileInputs.cache
+/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/obj/Debug/net7.0/Latest_PokemonApp.dll
+/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/obj/Debug/net7.0/refint/Latest_PokemonApp.dll
+/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/obj/Debug/net7.0/Latest_PokemonApp.pdb
+/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/obj/Debug/net7.0/Latest_PokemonApp.genruntimeconfig.cache
+/Users/akshitahuja/Projects/Latest_PokemonApp/Latest_PokemonApp/obj/Debug/net7.0/ref/Latest_PokemonApp.dll
